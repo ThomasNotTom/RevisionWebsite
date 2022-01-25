@@ -1,3 +1,2 @@
 .idea
-.gitignore
-static/.DS_Store
+./static/.DS_Store
